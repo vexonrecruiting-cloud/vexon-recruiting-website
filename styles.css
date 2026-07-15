@@ -17,3 +17,11 @@
 .job-side{text-align:right;min-width:180px}.job-side span{display:block;color:var(--muted);font-size:.85rem;margin-bottom:12px}
 .job-side a{color:var(--blue);font-weight:900}
 @media(max-width:700px){.job-listing{grid-template-columns:1fr}.job-side{text-align:left}}
+
+
+.value-card{border-top:4px solid var(--blue)}
+.insight-card{background:linear-gradient(180deg,#fff,#f8fbfd)}
+.insight-list{display:flex;flex-direction:column;gap:22px}
+.insight-article{background:#fff;border:1px solid var(--line);border-radius:14px;padding:34px;box-shadow:0 10px 36px rgba(8,27,43,.06)}
+.insight-article h2{font-size:clamp(1.45rem,2.5vw,2.15rem);margin:10px 0 14px}
+.insight-article p{margin:0;color:var(--muted);font-size:1.02rem}
