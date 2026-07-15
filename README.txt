@@ -1,8 +1,15 @@
-VEXON RECRUITING WEBSITE V2
+VEXON RECRUITING WEBSITE V3
 
-1. Open GitHub repository.
-2. Add file > Upload files.
-3. Upload all files and the assets folder.
-4. Commit changes.
-5. KEEP the existing CNAME file in GitHub. Do not delete it.
+WHAT'S NEW
+- New Opportunities page
+- Opportunities link added to navigation
+- Featured Opportunities section added to homepage
+- Candidate call-to-action improvements
+
+UPLOAD
+1. Unzip this package.
+2. GitHub repository > Add file > Upload files.
+3. Upload all files and assets folder.
+4. Keep the existing CNAME file.
+5. Commit changes.
 6. Wait 1-3 minutes and refresh https://vexonrecruiting.ca
